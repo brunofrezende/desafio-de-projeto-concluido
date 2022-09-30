@@ -1,0 +1,7 @@
+Neste curso aprendi mais comandos do Git e GitHub como, por exemplo:
+git clone
+git status
+git add
+git commit
+
+Entre outros.
